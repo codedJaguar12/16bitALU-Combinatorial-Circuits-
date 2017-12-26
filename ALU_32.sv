@@ -1,4 +1,4 @@
-module ALU_32 (iA, iB ,ctrl, oCarry,oZero, out);    
+module ALU_16 (iA, iB ,ctrl, oCarry,oZero, out);    
 input [16:0] iA,iB;
 output [16:0] out;
 input ctrl;
