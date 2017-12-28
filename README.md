@@ -1,1 +1,1 @@
-# 16bitALU-Combinatorial-Circuits-
+# A 16 bit ALU (Combinatorial-Circuits)
